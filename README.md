@@ -3,7 +3,11 @@
 > チーム制作の 3D モンスター討伐アクションゲームで、**魔法タイプのプレイヤー**を担当しました。
 > □ を短く押すと魔法弾、長押しすると自分の周りに範囲魔法が出る「押し方で技が変わる」操作を実装しています。
 
-![ゲーム画面](docs/images/magic_main.png)
+![ゲーム画面]
+<p align="center">
+  <img src="docs/MA0.png" width="50%" alt="Title"><img src="docs/MA1.png" width="50%" alt="ss1">
+  <img src="docs/MA2.png" width="50%" alt="ss2">
+</p>
 <!-- ↑ 魔法弾と範囲魔法が出ている瞬間の GIF がおすすめです -->
 
 | 項目 | 内容 |
